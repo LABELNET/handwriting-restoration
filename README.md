@@ -4,7 +4,7 @@
 
 结果见 `char.ipynb` 实现过程 ！，效果图如下
 
-
+![](https://github.com/LABELNET/handwriting-restoration/blob/master/wu.png?raw=true)
 
 ## 1、要求
 
